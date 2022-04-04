@@ -66,7 +66,7 @@ After double clicking to selected item, file can be manipulated as wished.
 
 ## Referances
 [Description](#description) <br />
-[Buttons](#buttons~) <br />
+[Buttons](#buttons-~) <br />
 [Back To The Top](#c-code-editor) 🔺
 
 ---
