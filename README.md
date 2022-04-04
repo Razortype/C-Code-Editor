@@ -1,5 +1,6 @@
 # C Code Editor
-![Project Image]()
+![Project Image](https://user-images.githubusercontent.com/55176611/161594144-96af0d5f-5505-4014-8962-e82fb67c211b.png)
+
 
 > C Code Editor is a system that allow user to run, compile and edit the C based code with GUI supported program.
 
@@ -29,7 +30,8 @@ Design of the project is aimed to accessibility of files and good interaction wi
 ## How to use
 Firstly we have to execute "run.pyw" file. If it is first time, system ask for folder directory that should contain C files. After a folder directory selected, editor window shoul be appeared on screen.
 
-![Editor Main Screen]()
+![Editor Main Screen](https://user-images.githubusercontent.com/55176611/161594204-6a05ed79-6996-4704-a6f8-19e21c56a3f3.png)
+
 
 ### Buttons ~
 - **Editor Related**
