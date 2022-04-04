@@ -99,7 +99,7 @@ SOFTWARE.
 
 ## Author Info
 
- - LinkedIn - [(orkun-kurul)]("https://www.linkedin.com/in/orkun-kurul/")
- - Github - [(Razortype)]("https://github.com/Razortype")
+ - LinkedIn - [(orkun-kurul)](https://www.linkedin.com/in/orkun-kurul/)
+ - Github - [(Razortype)](https://github.com/Razortype)
 
  [Back To The Top](#c-code-editor) 🔺
