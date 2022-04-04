@@ -33,7 +33,7 @@ Firstly we have to execute "run.pyw" file. If it is first time, system ask for f
 ![Editor Main Screen](https://user-images.githubusercontent.com/55176611/161594204-6a05ed79-6996-4704-a6f8-19e21c56a3f3.png)
 
 
-### Buttons ~
+### Buttons
 - **Editor Related**
     - Select : changing different location for searching C files.
     - Fetch : fetching all C files in given directory and in its child folders.
@@ -66,7 +66,7 @@ After double clicking to selected item, file can be manipulated as wished.
 
 ## Referances
 [Description](#description) <br />
-[Buttons](#buttons-~) <br />
+[Buttons](#buttons) <br />
 [Back To The Top](#c-code-editor) 🔺
 
 ---
