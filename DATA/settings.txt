@@ -1,0 +1,5 @@
+init_path$:=C:/Users/orkun/Desktop/Coding/cLessonFolder
+prop_items$:=Name#Folder Name#Last Modified Time#Compiled#Last Compiled Time#File Directory
+refill_items$:=
+log_val$:=False
+log_path$:=C:/Users/RAZORTYPE/Desktop/cLessonFolder/LOG
