@@ -301,8 +301,11 @@ class SettingPage(Toplevel):
         log_val = self.log_bool_val.cget("text")
         log_path = self.current_log_path.cget("text")
 
-        f.save_data(init_path,prop_items,refill_items,log_val,log_path)
-        messagebox.showinfo("Succes","Settings succesfully saved to application.")
+        if f.check_exists(init_path) and f.check_exists(log_path):
+            f.save_data(init_path,prop_items,refill_items,log_val,log_path)
+            messagebox.showinfo("Succes","Settings succesfully saved to application.")
+        else:
+            messagebox.showerror("Directory Error", "Initial and log file directory must be declared.")
 
 class App(Tk):
     def __init__(self):

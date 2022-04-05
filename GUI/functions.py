@@ -55,8 +55,8 @@ def get_init_path():
     return init_path
 
 def get_log_path():
-    currently = r'C:\Users\RAZORTYPE\Desktop\cLessonFolder\LOG'
-    return currently
+    log_path = get_data("LP")
+    return log_path
 
 def get_folders(thedir):
     folder_lst = [folder for folder in os.listdir(thedir) if os.path.isdir(os.path.join(thedir, folder))]
